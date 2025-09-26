@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0165-compare-version-numbers) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
