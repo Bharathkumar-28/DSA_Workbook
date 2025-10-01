@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0007-reverse-integer) |
+| [1642-water-bottles](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
