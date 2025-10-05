@@ -16,7 +16,7 @@ class Solution {
                 else{
                     mosh.put(hash[i],String.valueOf(c));
                 }
-                 System.out.println(mosh.get(hash[i]));
+                 //System.out.println(mosh.get(hash[i]));
             }
            
             
@@ -26,7 +26,7 @@ class Solution {
         for (Map.Entry<Integer, String> entry : mosh.entrySet()) {
     Integer key = entry.getKey();
     String value = entry.getValue();
-    System.out.println(key + " -> " + value);
+    //System.out.println(key + " -> " + value);
     if(soii.length()<value.length()){
         soii=value;
         max=key;
