@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
