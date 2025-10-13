@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0874-backspace-string-compare) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0059-spiral-matrix-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 ## Counting Sort
