@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Math
 |  |
 | ------- |
