@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
 ## Queue
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
+| [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
