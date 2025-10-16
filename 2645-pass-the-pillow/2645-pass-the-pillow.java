@@ -8,7 +8,7 @@ class Solution {
           
                 soii+=t;
                  time-=1;
-                 System.out.println(soii);
+                 //System.out.println(soii);
             
           
             if(soii==n || soii==1){
