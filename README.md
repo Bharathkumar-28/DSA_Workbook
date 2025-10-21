@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0434-number-of-segments-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0874-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
