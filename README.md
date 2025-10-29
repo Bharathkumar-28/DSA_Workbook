@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0434-number-of-segments-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0874-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1806-count-of-matches-in-tournament) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0059-spiral-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
 | ------- |
