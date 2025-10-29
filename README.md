@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
