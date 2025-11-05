@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1806-count-of-matches-in-tournament) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2645-pass-the-pillow) |
