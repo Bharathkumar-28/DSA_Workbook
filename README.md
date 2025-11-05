@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0059-spiral-matrix-ii) |
 | [0162-find-peak-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1806-count-of-matches-in-tournament) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
