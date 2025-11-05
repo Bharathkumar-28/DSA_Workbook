@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3336-water-bottles-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3221-find-the-peaks) |
+## Greedy
+|  |
+| ------- |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
