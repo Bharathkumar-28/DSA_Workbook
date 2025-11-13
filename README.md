@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0387-first-unique-character-in-a-string) |
 | [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Array
 |  |
 | ------- |
@@ -156,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
