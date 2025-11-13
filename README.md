@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1806-count-of-matches-in-tournament) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2645-pass-the-pillow) |
