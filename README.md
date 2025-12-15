@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Stack
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -178,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
