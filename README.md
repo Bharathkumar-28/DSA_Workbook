@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2486-most-frequent-even-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-square-sum-triples](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sorting
 |  |
 | ------- |
