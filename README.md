@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2063-vowels-of-all-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2063-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-square-sum-triples](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1925-count-square-sum-triples) |
+| [2063-vowels-of-all-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2288-count-operations-to-obtain-zero) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0392-is-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2063-vowels-of-all-substrings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sorting
 |  |
