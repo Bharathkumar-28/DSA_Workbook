@@ -3,7 +3,7 @@ class Solution {
         int n=blocks.length();
         int min=1000;
 int soii=0;
-for(int i=0;i<n-k;i++){
+for(int i=0;i<=n-k;i++){
     soii=0;
     
     for(int j=i;j<n;j++){
@@ -15,7 +15,7 @@ for(int i=0;i<n-k;i++){
         }
 
     }
-    System.out.println(soii);
+   // System.out.println(soii);
     min=Math.min(min,soii);
 }
 return min;
