@@ -3,7 +3,7 @@ class Solution {
         int len=nums.length;
         int c=0;
         int doii=0;
-        int min=1000;
+        int min=1000000;
        int[]  res=new int[2*len];
         
         for(int i=0;i<len;i++){
@@ -23,8 +23,8 @@ class Solution {
                 
                 j+=1;
             }
-            System.out.println(doii);
-            System.out.println("soii");
+           // System.out.println(doii);
+           // System.out.println("soii");
             min=Math.min(min,c-doii);
             doii-=res[i];
         }
