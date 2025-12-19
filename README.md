@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
