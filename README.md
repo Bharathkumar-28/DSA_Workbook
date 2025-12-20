@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0875-koko-eating-bananas](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0944-delete-columns-to-make-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
