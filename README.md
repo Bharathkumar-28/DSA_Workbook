@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
