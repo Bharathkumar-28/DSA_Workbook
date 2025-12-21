@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sliding Window
