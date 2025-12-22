@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3221-find-the-peaks](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2679-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
