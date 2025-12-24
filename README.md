@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
