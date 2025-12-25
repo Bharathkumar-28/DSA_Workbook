@@ -11,7 +11,7 @@ class Solution {
         if(len==1 && k==1){
             return candies[0];
         }
-        Arrays.sort(candies);
+        //Arrays.sort(candies);
         int sum=0;
         int temp=0;
         int high=candies[len-1];
