@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3221-find-the-peaks](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3321-type-of-triangle) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sliding Window
