@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bharathkumar-28/DSA_Workbook/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
