@@ -15,13 +15,13 @@ class Solution {
         int sum=0;
         int temp=0;
         int high=candies[len-1];
-        int low=0;
+        int low=1;
         //for(int j=min;j>0;j--){
            // sum=0;
         //for(int i=0;i<len;i++){
             while(low<=high){
                 int mid=(low+high)/2;
-                int result=calculate(candies,mid);
+                long result=calculate(candies,mid);
               //  System.out.println(result);
                 if(result<k){
                     //
@@ -38,8 +38,8 @@ class Solution {
 
         }
         return low-1;}
-        public int calculate(int[] candies,int mid){
-            int sum=0;
+        public long calculate(int[] candies,int mid){
+            long sum=0;
            // System.out.println(mid);
             for(int i=0;i<candies.length;i++){
                 try{
